@@ -59,7 +59,7 @@ The global Autonomous AI Agents and Agentic Runtime market is estimated between 
 
 ## ⚡ Open-Source GitHub Projects
 
-*Sorted descending by GitHub stargazer count. Star badges beside each repository link directly to its stargazers page.*
+*Sorted descending by GitHub stargazer count. Stars_Badges beside each repository link directly to its stargazers page.*
 
 - 🌟 **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
   Autonomous general-purpose AI agent architecture recursively chaining LLM thoughts, web search, and workspace operations.
