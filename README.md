@@ -30,71 +30,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global Autonomous AI Agents and Agentic Runtime market is estimated between **$5.8B and $11.5B in 2026** (projected to surge at a **38%–50% CAGR** through the early 2030s). The sector exhibits **medium concentration with high architectural fragmentation**: while foundational LLM reasoning layers remain concentrated among a few frontier model labs, the agent orchestration, memory, runtime OS, and tool-calling framework layers remain highly fragmented across innovative startups and rapid open-source ecosystems rather than a winner-take-all monopoly.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[CrewAI Enterprise](https://crewai.com)**  
-
-  Cloud-hosted multi-agent orchestration suite featuring visual workflow builders, RBAC, real-time tracing, and managed production deployments.
-
-
-
-- **[LangGraph Platform (LangSmith Deployment)](https://langchain.com)**  
-
-  Managed infrastructure for deploying, scaling, and debugging stateful, cyclic agent graphs with built-in persistence and human-in-the-loop controls.
-
-
-
-- **[Dify Cloud](https://dify.ai)**  
-
-  Hosted LLM application and agentic workflow platform combining RAG pipelines, visual agent orchestration, model management, and observability.
-
-
-
-- **[Flowise Cloud](https://flowiseai.com)**  
-
-  Managed visual drag-and-drop platform for building, testing, and deploying multi-agent systems and LLM chains via APIs and widgets.
-
-
-
-- **[Botpress Cloud](https://botpress.com)**  
-
-  Enterprise conversational AI and autonomous agent studio offering visual flow building, knowledge base syncing, and omnichannel deployment.
-
-
-
-- **[Letta Cloud](https://letta.com)**  
-
-  Hosted stateful agent runtime built around MemGPT principles for long-term memory management, perpetual learning, and multi-session context.
-
-
-
-- **[SuperAGI Cloud](https://superagi.com)**  
-
-  Cloud-based autonomous AI agent platform enabling concurrent agent execution, marketplace toolkits, and performance telemetry.
-
-
-
-- **[Stack AI](https://stack-ai.com)**  
-
-  No-code enterprise AI workflow and agent automation platform with SOC2/HIPAA compliance and pre-built connectors for business tools.
-
-
-
-- **[Fixie.ai](https://fixie.ai)**  
-
-  Cloud runtime and developer platform focused on real-time voice-enabled and conversational AI agents with external API integration.
+| Platform | Company Valuation / Size | Starting Tier Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[LangGraph Platform (LangSmith Deployment)](https://langchain.com)** | **$3.0B valuation** ($460M raised) | **$39 / seat / month** (Plus Plan; metered overages for high-volume traces/runs) | **Free forever Developer Tier**: 1 seat, up to 5,000 base traces/month | Managed infrastructure for deploying, scaling, and debugging stateful, cyclic agent graphs with built-in persistence and human-in-the-loop controls. |
+| **[Dify Cloud](https://dify.ai)** | **$180M valuation** ($30M raised) | **$59 / month** (Professional Plan; or $159/month Team Plan) | **Free forever Sandbox Plan**: 1 member, 200 one-time message credits, 10 apps, 50MB vector storage, 30-day logs | Hosted LLM application and agentic workflow platform combining RAG pipelines, visual agent orchestration, model management, and observability. |
+| **[CrewAI Enterprise](https://crewai.com)** | **~$100M–$177M valuation** ($18M raised) | **Custom enterprise pricing** (self-serve/starter custom quotes for enterprise governance) | **Free forever Basic Plan**: 50 workflow executions/month, 2 automations, visual Studio editor, GitHub integration | Cloud-hosted multi-agent orchestration suite featuring visual workflow builders, RBAC, real-time tracing, and managed production deployments. |
+| **[Botpress Cloud](https://botpress.com)** | **$120M valuation** ($45M raised) | **$150 / month billed annually** ($189/mo monthly for Plus Plan) | **Free forever Plan**: 100 incoming conversations/month, 3 seats, 3 AI agents, community support | Enterprise conversational AI and autonomous agent studio offering visual flow building, knowledge base syncing, and omnichannel deployment. |
+| **[Letta Cloud](https://letta.com)** | **$70M valuation** ($10M raised) | **$20 / month** (Pro Tier with matching monthly model/sandbox credits) | **Free forever Tier**: 3 stateful agents, bring-your-own API keys (BYOK), perpetual memory storage | Hosted stateful agent runtime built around MemGPT principles for long-term memory management, perpetual learning, and multi-session context. |
+| **[Stack AI](https://stack-ai.com)** | **~$64M valuation** ($19M raised; acquired by Asana) | **Custom enterprise pricing** (post-acquisition custom contracts; historically $199/mo Starter) | **Free forever Plan**: 500 workflow runs/month, 2 active projects, 1 seat, Discord support | No-code enterprise AI workflow and agent automation platform with SOC2/HIPAA compliance and pre-built connectors for business tools. |
+| **[Fixie.ai](https://fixie.ai)** | **~$51.5M valuation** ($17M raised; acquired by Inworld AI) | **$0.05 / minute** (Pay As You Go voice runtime) | **Free forever Tier**: 30 free minutes, 5 concurrent calls, unlimited playground testing | Cloud runtime and developer platform (Ultravox) focused on real-time voice-enabled and conversational AI agents with external API integration. |
+| **[Flowise Cloud](https://flowiseai.com)** | **Undisclosed valuation** (backed by YC, acquired by Workday) | **$35 / month** (Starter Plan; or $65/month Pro Plan) | **Free forever Plan**: 100 predictions/month, 2 active flows/assistants, 5MB storage | Managed visual drag-and-drop platform for building, testing, and deploying multi-agent systems and LLM chains via APIs and widgets. |
+| **[SuperAGI Cloud](https://superagi.com)** | **<$100M valuation** (~$15M raised) | **$49 / user / month** (Starter Cloud / AI SDR outreach tier) | **Free forever Tier**: 100 free credits/month for agent testing and prospecting exploration | Cloud-based autonomous AI agent platform enabling concurrent agent execution, marketplace toolkits, and performance telemetry. |
 
 
 
