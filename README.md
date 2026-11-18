@@ -1,52 +1,49 @@
-# Awesome-Agent-Operating-Systems-AI-Runtime-Frameworks
+# 🤖 Awesome Agent Operating Systems & AI Runtime Frameworks
 
-## Top Agent Operating Systems & AI Runtime Frameworks Ecosystem
+<div align="center">
 
+<a href="https://github.com/ishandutta2007/Awesome-Agent-Operating-Systems-AI-Runtime-Frameworks">
+  <img src="assets/banner.svg" alt="Awesome Agent Operating Systems and AI Runtime Frameworks Banner" width="100%" />
+</a>
 
+<br/><br/>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Agent-Operating-Systems-AI-Runtime-Frameworks) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-*Focused on Agentic Operating Systems, Multi-Agent Orchestration, Persistent Memory & Sandbox Runtimes*  
+<p align="center">
+  <strong>A curated landscape of Agentic Operating Systems, Multi-Agent Orchestration Runtimes, Stateful LLM Memory Kernels &amp; Isolated Sandboxes</strong>
+</p>
 
-**Last updated: November 2026**
+</div>
 
+---
 
+## 🔍 SEO & Technology Keywords
+`Agent Operating System` • `AI Runtime Frameworks` • `Multi-Agent Orchestration` • `LLM Operating System` • `Autonomous AI Agents` • `Stateful AI Runtimes` • `Model Context Protocol (MCP)` • `Persistent Memory Kernels` • `Docker MicroVM Sandboxes` • `Local LLM Agent Runtimes` • `Cyclic Agent Graphs` • `Enterprise AI Workflow Automation`
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Agent Operating Systems & AI Runtime Frameworks**. These tools provide stateful execution loops, persistent memory, multi-agent coordination, tool/MCP routing, and secure sandboxing for autonomous AI agents.
+---
 
+## 📖 Table of Contents
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Recommended Architecture Stacks](#️-recommended-architecture-stacks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [📜 Disclaimer](#-disclaimer)
 
+---
 
-**Examples** include CrewAI Enterprise, LangGraph Platform, Dify, Flowise Cloud, Botpress, Letta, SuperAGI, Stack AI, Fixie.ai, AutoGen Studio, and vstorm-co/agenticos (the category leaders). 
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLM integration, persistent agent memory, sandboxed code execution, and custom multi-agent orchestration — ideal for AI engineers, researchers, and enterprises building transparent agentic infrastructure.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
+## 🌐 Sector Overview & Market Dynamics
 
 The global Autonomous AI Agents and Agentic Runtime market is estimated between **$5.8B and $11.5B in 2026** (projected to surge at a **38%–50% CAGR** through the early 2030s). The sector exhibits **medium concentration with high architectural fragmentation**: while foundational LLM reasoning layers remain concentrated among a few frontier model labs, the agent orchestration, memory, runtime OS, and tool-calling framework layers remain highly fragmented across innovative startups and rapid open-source ecosystems rather than a winner-take-all monopoly.
 
+---
 
+## ☁️ SaaS & Hosted Platforms
 
-## SaaS/Hosted Platforms
-
-| Platform | Company Valuation / Size | Starting Tier Pricing | Free Tier / Trial Limits | Description |
+| 🏢 Platform | 💰 Company Valuation / Size | 🏷️ Starting Tier Pricing | 🎁 Free Tier / Trial Limits | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[LangGraph Platform (LangSmith Deployment)](https://langchain.com)** | **$3.0B valuation** ($460M raised) | **$39 / seat / month** (Plus Plan; metered overages for high-volume traces/runs) | **Free forever Developer Tier**: 1 seat, up to 5,000 base traces/month | Managed infrastructure for deploying, scaling, and debugging stateful, cyclic agent graphs with built-in persistence and human-in-the-loop controls. |
 | **[Dify Cloud](https://dify.ai)** | **$180M valuation** ($30M raised) | **$59 / month** (Professional Plan; or $159/month Team Plan) | **Free forever Sandbox Plan**: 1 member, 200 one-time message credits, 10 apps, 50MB vector storage, 30-day logs | Hosted LLM application and agentic workflow platform combining RAG pipelines, visual agent orchestration, model management, and observability. |
@@ -58,198 +55,159 @@ The global Autonomous AI Agents and Agentic Runtime market is estimated between 
 | **[Flowise Cloud](https://flowiseai.com)** | **Undisclosed valuation** (backed by YC, acquired by Workday) | **$35 / month** (Starter Plan; or $65/month Pro Plan) | **Free forever Plan**: 100 predictions/month, 2 active flows/assistants, 5MB storage | Managed visual drag-and-drop platform for building, testing, and deploying multi-agent systems and LLM chains via APIs and widgets. |
 | **[SuperAGI Cloud](https://superagi.com)** | **<$100M valuation** (~$15M raised) | **$49 / user / month** (Starter Cloud / AI SDR outreach tier) | **Free forever Tier**: 100 free credits/month for agent testing and prospecting exploration | Cloud-based autonomous AI agent platform enabling concurrent agent execution, marketplace toolkits, and performance telemetry. |
 
+---
 
+## ⚡ Open-Source GitHub Projects
 
+*Sorted descending by GitHub stargazer count. Star badges beside each repository link directly to its stargazers page.*
 
+- 🌟 **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+  Autonomous general-purpose AI agent architecture recursively chaining LLM thoughts, web search, and workspace operations.
 
-## Open-Source GitHub Projects
+- 🌟 **[Ollama](https://github.com/ollama/ollama)** [![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
+  Lightweight, scalable runtime to run, customize, and serve local open-source LLMs (Llama, DeepSeek, Mistral) for sovereign agent stacks.
 
+- 🌟 **[Dify](https://github.com/langgenius/dify)** [![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+  Production-ready open-source LLMOps and multi-agent workflow platform combining RAG pipelines, visual prompt orchestration, and routing.
 
+- 🌟 **[Browser-Use](https://github.com/browser-use/browser-use)** [![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+  Autonomous web agent runtime enabling LLMs to navigate websites, click elements, fill forms, and extract web data via Playwright.
 
-- **[vstorm-co/agenticos](https://github.com)**  
+- 🌟 **[OpenHands (formerly OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** [![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
+  Open-source platform for autonomous software development agents equipped with sandboxed Docker, bash, code editor, and browser tools.
 
-  Open-source Agent Operating System built on Pydantic AI featuring Unix-style virtual filesystems, permission gates, shell execution, and modular skill packs.
+- 🌟 **[Model Context Protocol (MCP) Servers](https://github.com/modelcontextprotocol/servers)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social&color=white)](https://github.com/modelcontextprotocol/servers/stargazers)  
+  Anthropic's open standard and server implementations for connecting AI agents securely to tools, filesystems, and databases.
 
+- 🌟 **[MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
+  Multi-agent meta-programming framework assigning Standard Operating Procedures (SOPs) to simulated software company roles (PM, architect, engineer).
 
+- 🌟 **[Mem0](https://github.com/mem0ai/mem0)** [![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
+  Universal personalized memory engine for AI agents providing stateful, long-term multi-session user and entity context retention.
 
-- **[LangGraph](https://github.com)**  
+- 🌟 **[Open Interpreter](https://github.com/openinterpreter/openinterpreter)** [![GitHub Repo stars](https://img.shields.io/github/stars/openinterpreter/openinterpreter?style=social&color=white)](https://github.com/openinterpreter/openinterpreter/stargazers)  
+  Open-source natural language interface for computers that executes Python, JavaScript, and shell commands locally in sandboxes.
 
-  Open-source framework for building resilient, stateful, multi-actor agent applications as cyclic graphs with fine-grained control over memory and execution state.
+- 🌟 **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
+  High-throughput LLM gateway and routing proxy providing unified OpenAI-compatible formatting, load balancing, and failover across 100+ LLMs.
 
+- 🌟 **[Microsoft AutoGen & AutoGen Studio](https://github.com/microsoft/autogen)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+  Multi-agent conversation framework facilitating complex collaborative workflows with event-driven agents and human-in-the-loop support.
 
+- 🌟 **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub Repo stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+  Production multi-agent orchestration framework enabling role-playing autonomous AI agents to collaborate seamlessly on complex tasks.
 
-- **[CrewAI](https://github.com)**  
+- 🌟 **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+  Low-code drag-and-drop visual interface for orchestrating LLM flows, multi-agent systems, memory layers, and custom tool integrations.
 
-  Popular open-source Python framework for orchestrating role-playing autonomous AI agents that collaborate on complex multi-step tasks.
+- 🌟 **[LlamaIndex Workflows](https://github.com/run-llama/llama_index)** [![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
+  Data framework and event-driven workflow engine for building context-augmented, multi-agent RAG pipelines and knowledge systems.
 
+- 🌟 **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  Stateful orchestration engine for cyclic, multi-actor agent workflows with fine-grained persistence, streaming, and time-travel debugging.
 
+- 🌟 **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** [![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers)  
+  High-performance multi-modal agent framework with built-in memory, persistent knowledge bases, and ultra-fast Python execution.
 
-- **[Microsoft AutoGen & AutoGen Studio](https://github.com)**  
+- 🌟 **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub Repo stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+  Open-source LLM observability, prompt management, and agent evaluation suite with OpenTelemetry distributed tracing.
 
-  Open-source programming framework and low-code web UI for building event-driven, multi-agent conversational workflows with human-in-the-loop support.
-
-
-
-- **[Letta (formerly MemGPT)](https://github.com)**  
-
-  Open-source stateful agent framework that equips LLMs with hierarchical self-editing memory, persistent storage, and long-running daemon execution.
-
-
-
-- **[Dify](https://github.com)**  
-
-  Production-ready open-source platform for agentic workflow development, visual prompt orchestration, RAG pipelines, and multi-model routing.
-
-
-
-- **[Flowise](https://github.com)**  
-
-  Open-source low-code visual builder for rapidly prototyping and self-hosting LLM orchestration flows and autonomous tool-calling agents.
-
-
-
-- **[Botpress](https://github.com)**  
-
-  Open-source conversational AI framework and runtime for building, testing, and deploying custom NLU and LLM-powered agents.
-
-
-
-- **[SuperAGI](https://github.com)**  
-
-  Dev-first open-source autonomous AI agent framework supporting concurrent agent provisioning, graphical trajectory tracking, and vector database memory.
-
-
-
-- **[OpenAI Agents SDK](https://github.com)**  
-
+- 🌟 **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)** [![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=social&color=white)](https://github.com/openai/openai-agents-python/stargazers)  
   Lightweight open-source Python runtime for multi-agent handoffs, guardrails, session state, and built-in tracing.
 
+- 🌟 **[Smolagents (Hugging Face)](https://github.com/huggingface/smolagents)** [![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)  
+  Minimalist Python agent library centered on code-executing agents that write and evaluate programmatic actions directly.
 
+- 🌟 **[Mastra](https://github.com/mastra-ai/mastra)** [![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social&color=white)](https://github.com/mastra-ai/mastra/stargazers)  
+  Full-stack TypeScript framework for building modern AI agents with integrated workflow pipelines, evaluations, and memory stores.
 
-- **[Google Agent Development Kit (ADK)](https://github.com)**  
+- 🌟 **[Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)  
+  Enterprise lightweight SDK enabling seamless integration of LLMs, agent planners, plugins, and vector memories across C#, Python, and Java.
 
-  Code-first open-source toolkit for developing, evaluating, and deploying modular multi-agent hierarchies with bidirectional streaming support.
+- 🌟 **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)  
+  Modular open-source framework for building customizable LLM pipelines, autonomous agent tool chains, and production search applications.
 
+- 🌟 **[Letta (formerly MemGPT)](https://github.com/letta-ai/letta)** [![GitHub Repo stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
+  Stateful Agent Operating System providing LLMs with hierarchical self-editing memory, persistent storage, and background agent execution.
 
+- 🌟 **[Google Agent Development Kit (ADK)](https://github.com/google/adk-python)** [![GitHub Repo stars](https://img.shields.io/github/stars/google/adk-python?style=social&color=white)](https://github.com/google/adk-python/stargazers)  
+  Code-first open-source toolkit for developing, evaluating, and deploying modular multi-agent hierarchies with bidirectional streaming.
 
-- **[Pydantic AI](https://github.com)**  
+- 🌟 **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** [![GitHub Repo stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)  
+  Type-safe agent framework engineered by Pydantic for robust structured outputs, dependency injection, and model-agnostic runtimes.
 
-  Type-safe open-source Python agent framework engineered for structured outputs, dependency injection, and model-agnostic production runtimes.
+- 🌟 **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social&color=white)](https://github.com/princeton-nlp/SWE-agent/stargazers)  
+  Agent framework turning LLMs into software engineers via specialized Agent-Computer Interfaces (ACI) to resolve GitHub issues end-to-end.
 
+- 🌟 **[ElizaOS (ai16z)](https://github.com/elizaOS/eliza)** [![GitHub Repo stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social&color=white)](https://github.com/elizaOS/eliza/stargazers)  
+  Modular TypeScript multi-agent operating system designed for autonomous characters, social platform autonomous interactions, and plugin scaling.
 
+- 🌟 **[CAMEL-AI](https://github.com/camel-ai/camel)** [![GitHub Repo stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
+  Pioneering communicative multi-agent framework dedicated to studying cooperative autonomous agent behavior and synthetic data generation.
 
-- **[Agno (formerly Phidata)](https://github.com)**  
+- 🌟 **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** [![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)  
+  Dev-first autonomous AI agent framework supporting concurrent agent loops, marketplace toolkits, and graphical execution tracking.
 
-  High-performance open-source framework and runtime for building multi-modal agents with shared memory, knowledge bases, and deterministic workflows.
+- 🌟 **[Botpress](https://github.com/botpress/botpress)** [![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+  Developer-centric open-source conversational AI platform and runtime for building autonomous bots and workflow agents.
 
+- 🌟 **[E2B Code Interpreter](https://github.com/e2b-dev/E2B)** [![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)  
+  Secure cloud sandbox infrastructure built for AI agents to safely execute code, inspect files, and run interactive shell environments.
 
+- 🌟 **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+  AI observability and evaluation platform for tracing agent execution, visualizing tool calls, and benchmarking retrieval performance.
 
-- **[LlamaIndex Workflows](https://github.com)**  
+- 🌟 **[AIOS (LLM Agent OS)](https://github.com/agiresearch/AIOS)** [![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/AIOS?style=social&color=white)](https://github.com/agiresearch/AIOS/stargazers)  
+  Kernel-level Agent Operating System optimizing LLM scheduling, memory context switching, and isolated tool execution.
 
-  Open-source event-driven orchestration framework designed for context-augmented agents, complex RAG pipelines, and document-centric runtimes.
+- 🌟 **[Zep](https://github.com/getzep/zep)** [![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social&color=white)](https://github.com/getzep/zep/stargazers)  
+  Fast, scalable long-term memory server for AI agents and assistants providing temporal fact extraction and semantic search over conversation histories.
 
+- 🌟 **[AgenticOS](https://github.com/vstorm-co/agenticos)** [![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social&color=white)](https://github.com/vstorm-co/agenticos/stargazers)  
+  Open-source Agent Operating System built on Pydantic AI with Unix-style virtual filesystem, permission boundaries, and modular skill packs.
 
 
-- **[Haystack](https://github.com)**  
+---
 
-  Open-source AI orchestration framework enabling custom agent pipelines, tool calling, semantic search, and production-grade observability.
+## 🛠️ Recommended Architecture Stacks
 
+For engineering teams assembling sovereign, production-grade custom Agent Operating Systems:
+- 🧠 **Kernel & Memory**: Pair **[Letta](https://github.com/letta-ai/letta)** or **[Mem0](https://github.com/mem0ai/mem0)** for hierarchical stateful episodic and entity memory.
+- 🔄 **Orchestration**: Use **[LangGraph](https://github.com/langchain-ai/langgraph)** or **[CrewAI](https://github.com/crewAIInc/crewAI)** for multi-agent loops and human-in-the-loop workflows.
+- 🔌 **Tools & Interoperability**: Standardize on **[Model Context Protocol (MCP) Servers](https://github.com/modelcontextprotocol/servers)** for standardized tool, database, and filesystem connectivity.
+- 📦 **Safe Sandbox Runtimes**: Isolate untrusted LLM-generated code via **[E2B Code Interpreter](https://github.com/e2b-dev/E2B)** or local Docker containers.
+- 🚦 **Inference & Observability**: Combine **[LiteLLM](https://github.com/BerriAI/litellm)** or **[Ollama](https://github.com/ollama/ollama)** for gateway routing with **[Langfuse](https://github.com/langfuse/langfuse)** for OpenTelemetry distributed tracing and evaluation.
 
+---
 
-- **[Semantic Kernel](https://github.com)**  
+## 🤝 How to Contribute
 
-  Enterprise-grade open-source SDK from Microsoft for integrating LLM agents, plugins, planners, and memory across Python, C#, and Java.
+Contributions are warmly welcomed! 🌟
 
+1. 🍴 **Fork the repo** to your personal GitHub account.
+2. 🌿 **Create a feature branch** (`git checkout -b feature/awesome-agent-tool`).
+3. 📝 **Add/edit entries** in `README.md` following the consistent formatting and verified links.
+4. 🚀 **Submit a Pull Request** with a succinct description of the platform/runtime.
 
+---
 
-- **[AIOS (LLM Agent Operating System)](https://github.com)**  
+## 💖 Support
 
-  Research-backed open-source Agent OS embedding LLM scheduling, context switching, memory management, and tool access control at the kernel layer.
+Thank you so much for exploring and using this repository! If this curated guide helped you navigate the fast-moving Agent Operating System & AI Runtime landscape, please consider:
+- ⭐ **Starring this repository** to help others discover it.
+- 🍴 **Forking and sharing** it with your fellow AI builders and engineering teams.
+- ☕ **Buying a coffee or sponsoring** future maintenance via the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
+Your support keeps this ecosystem resource fresh, verified, and community-driven! 🙏
 
+---
 
-- **[OpenHands (formerly OpenDevin)](https://github.com)**  
+## 📈 Star History
 
-  Open-source platform for autonomous software-engineering agents operating inside sandboxed Docker runtimes with bash, browser, and editor access.
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Agent-Operating-Systems-AI-Runtime-Frameworks&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Agent-Operating-Systems-AI-Runtime-Frameworks&type=date&legend=top-left)
 
+---
 
+## 📜 Disclaimer
 
-- **[SWE-agent](https://github.com)**  
-
-  Open-source agent runtime with custom Agent-Computer Interfaces (ACI) enabling LLMs to autonomously navigate repositories, edit code, and run tests.
-
-
-
-- **[Smolagents (Hugging Face)](https://github.com)**  
-
-  Minimalist open-source Python library centered on code-executing agents that write and run Python actions directly inside secure sandboxes.
-
-
-
-- **[Camel-AI](https://github.com)**  
-
-  Open-source multi-agent framework focused on scalable communicative agents, synthetic data generation, and role-playing task automation.
-
-
-
-- **[MetaGPT](https://github.com)**  
-
-  Open-source multi-agent meta-programming framework that assigns standardized operating procedures (SOPs) to product managers, architects, and engineers.
-
-
-
-- **[ElizaOS (ai16z)](https://github.com)**  
-
-  Open-source TypeScript multi-agent runtime designed for autonomous characters, social platform integrations, and extensible plugin ecosystems.
-
-
-
-- **[Mastra](https://github.com)**  
-
-  Open-source TypeScript agent framework featuring workflows, memory management, evals, and seamless integration with modern web stacks.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Model Context Protocol (MCP) Servers](https://github.com)** for standardized tool, filesystem, and API connectivity across any agent runtime.
-
-- **[E2B Code Interpreter](https://github.com)** and **[MicroVM Sandboxes](https://github.com)** for isolated cloud/local execution environments for untrusted agent-generated code.
-
-- **[Mem0](https://github.com)** and **[Zep](https://github.com)** for dedicated long-term episodic and semantic memory layers for stateful agents.
-
-- **[LiteLLM](https://github.com)** and **[Ollama](https://github.com)** for unified local and multi-provider LLM routing inside self-hosted agent runtimes.
-
-- **[Arize Phoenix](https://github.com)** and **[Langfuse](https://github.com)** for open-source OpenTelemetry tracing, prompt versioning, and agent evaluation.
-
-
-
-**Frameworks for building custom systems**: Combine **vstorm-co/agenticos** or **LangGraph** with **Letta** (memory), **Model Context Protocol (MCP)** (tools), **E2B / Docker** (sandboxing), and **Ollama + Langfuse** for sovereign, production-grade Agent Operating Systems.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
+This is an independent community-curated repository. All product names, logos, and brands are property of their respective owners. Listing does not imply official endorsement or commercial affiliation.
